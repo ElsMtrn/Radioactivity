@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Creative Commons Zero v1.0 Universal"
+
+[[mods]]
+modId="radioactivity"
+version="1.0.0"
+displayName="Radioactivity"
+credits="©2025 Ellis Matérn. All Rights Reserved."
+displayURL="https://modrinth.com/users/ElsMtrn/"
+authors="Ellis Matérn (@ElsMtrn on GitHub)"
+description='''
+This mod adds some radiactive Items and Blocks to the game! Support the mod by following me on GitHub!
+'''
+
+[[dependencies.radioactivity]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

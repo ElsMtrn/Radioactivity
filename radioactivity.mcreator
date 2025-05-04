@@ -1,0 +1,45 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RadioactiveSpider",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radioactive_spider"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.radioactivity.radioactive_spider": "Radioactive Spider"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "radioactivity",
+    "modName": "Radioactivity",
+    "version": "1.0.0",
+    "description": "This mod adds some radiactive Items and Blocks to the game! Support the mod by following me on GitHub!",
+    "author": "Ellis Matérn (@ElsMtrn on GitHub)",
+    "websiteURL": "https://modrinth.com/users/ElsMtrn/",
+    "license": "Creative Commons Zero v1.0 Universal",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "©2025 Ellis Matérn. All Rights Reserved.",
+    "modElementsPackage": "net.elsmtrn.radioactivity",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
