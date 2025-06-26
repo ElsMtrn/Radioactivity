@@ -1,1 +1,1 @@
-# A mod that adds some radioactive elements
+# A mod that adds some radioactive items.
